@@ -1,1 +1,4 @@
-# pyprojects
+- 👋 Hi, I’m Paramita Pradhan
+- 👀 Lately been interested in collaborating on AI projects
+- 🌱 I’m currently new to the AI space & playing around at the moment
+- 📫 How to reach me ... paramita.a.pradhan@gmail.com
